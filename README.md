@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Duckahn
+- 👋 Hi, I’m @ShrimpKing1301
 - 👀 I’m interested in code
 - 🌱 I’m currently learning reactjs,solidity and python
 - 💞️ I’m looking to collaborate on ...
